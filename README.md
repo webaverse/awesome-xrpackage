@@ -5,6 +5,7 @@
 - [Dropship](https://github.com/avaer/dropship)
 - [Doggo](https://github.com/avaer/doggo)
 - [WebXR Blob](https://github.com/Zetaphor/webxr-blob)
+- [WebXR Triforce](https://github.com/Zetaphor/webxr-triforce)
 
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
