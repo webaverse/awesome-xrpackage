@@ -6,6 +6,7 @@
 - [Doggo](https://github.com/avaer/doggo)
 - [WebXR Blob](https://github.com/Zetaphor/webxr-blob)
 - [WebXR Triforce](https://github.com/Zetaphor/webxr-triforce)
+- [VR Dos](https://github.com/avaer/vr-dos)
 
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
