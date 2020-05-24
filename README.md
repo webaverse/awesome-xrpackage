@@ -8,6 +8,7 @@
 - [WebXR Triforce](https://github.com/Zetaphor/webxr-triforce)
 - [WebXR Chicken](https://github.com/Zetaphor/webxr-chicken)
 - [VR Dos](https://github.com/avaer/vr-dos)
+- [Tip Jar](https://github.com/avaer/tipjar)
 
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
