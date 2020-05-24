@@ -9,6 +9,7 @@
 - [WebXR Chicken](https://github.com/Zetaphor/webxr-chicken)
 - [VR Dos](https://github.com/avaer/vr-dos)
 - [Tip Jar](https://github.com/avaer/tipjar)
+- [Glorb](https://github.com/avaer/glorb)
 
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
