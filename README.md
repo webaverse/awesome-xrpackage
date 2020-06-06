@@ -10,10 +10,16 @@
 - [VR Dos](https://github.com/avaer/vr-dos)
 - [Tip Jar](https://github.com/avaer/tipjar)
 - [Glorb](https://github.com/avaer/glorb)
+- [Booth](https://github.com/avaer/booth)
 
 # Procedural Generation
 
 - [Terrain](https://github.com/avaer/terrain)
+- [Tree](https://github.com/avaer/tree)
+- [Grass](https://github.com/avaer/grass)
+- [Cloud](https://github.com/avaer/cloud)
+- [NPC](https://github.com/avaer/npc)
+- [Chest](https://github.com/avaer/chest)
 
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
