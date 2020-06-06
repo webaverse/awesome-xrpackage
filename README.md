@@ -11,6 +11,10 @@
 - [Tip Jar](https://github.com/avaer/tipjar)
 - [Glorb](https://github.com/avaer/glorb)
 
+# Procedural Generation
+
+- [Terrain](https://github.com/avaer/terrain)
+
 # UI
 - [XR Menu Prototype](https://github.com/Zetaphor/xr-menu-prototype)
 
